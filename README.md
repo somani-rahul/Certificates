@@ -8,7 +8,7 @@ Read readme.txt file present inside for further query.
 
 # Here are some snapshots of the software
 ### login page :
-![Certificates/DBMS.jpg](DBMS certificate)
+![DBMS certificate](Certificates/DBMS.jpg)
 
 ### home page: 
 ![main page image](main_page.png)
