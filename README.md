@@ -1,11 +1,13 @@
-# Introduction
-This repository is a storehouse of my certificates.
+# Contents of Readme:
+## Domain Certificate
+## Academic Result
+## Other Certificates Information Alltogether
 
 # My astonishing performances
 ### Completed six courses by IITs finishing Programming Domain:
 ![NPTEL Domain - Programming](Compressed_Certificates/NPTEL_DOMAIN_CERTIFICATE.jpg)
 
-### Latest Acadmic Result: 
+### Latest Academic Result: 
 ![fourth_sem_result.jpg](Compressed_Certificates/fourth_sem_result.jpg)
 
 ### All other courses: 
