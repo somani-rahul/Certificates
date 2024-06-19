@@ -8,5 +8,9 @@ This repository is a storehouse of my certificates.
 ### : 
 ![main page image](main_page.png)
 
-### : 
-![help box image](help_page.png)
+### All other courses: 
+| Name        | Age | Occupation       |
+| :---------: | :-: | :--------------: |
+| John Doe    | 30  | Software Engineer|
+| Jane Smith  | 25  | Data Scientist   |
+| Sam Johnson | 35  | Product Manager  |
