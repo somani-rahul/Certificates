@@ -1,8 +1,7 @@
 <svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#282c34"/>
-  <text id="welcomeText" x="0%" y="50%" font-family="Arial, sans-serif" font-size="90" fill="white" text-anchor="middle" dy=".3em">
+  <rect width="100%" height="100%" opacity="0%"/>
+  <text id="welcomeText" x="50%" y="50%" font-family="Arial, sans-serif" font-size="90" fill="white" text-anchor="middle" dy=".3em">
     Welcome!
-    <animateTransform attributeName="transform" type="translate" from="-250,0" to="800,0" dur="3s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" from="-250,0" to="1000,0" dur="3s" repeatCount="indefinite" />
   </text>
 </svg>
-
