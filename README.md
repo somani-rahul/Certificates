@@ -1,5 +1,5 @@
 
-![Animated Graphic](x.svg)
+![Animated Graphic](welcome.svg)
 
 # Contents of Readme:
 ## Domain Certificate
