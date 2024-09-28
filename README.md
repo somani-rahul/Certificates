@@ -1,6 +1,3 @@
-
-![Animated Graphic](welcome.svg)
-
 # Contents of Readme:
 ## Domain Certificate
 ## Academic Result
@@ -16,9 +13,9 @@
 ### All other courses: 
 | Name                                       | Score | Date of certification | Institution      |
 | :----------------------------------------: | :---: | :-------------------: | :--------------: |
-| Programming in Java                        | 90    | October,2022          | IIT Kharagpur    |
-| An Introduction to Programming through CPP | 85    | April,2022            | IIT Bombay       |
-| Programming and DSA using Python           | 78    | March, 2023           | IIT Madras       |
-| Introduction to IOT                        | 85    | October, 2023         | IIT Kharagpur    |
-| Cloud Computing                            | 72    | April, 2023           | IIT Kharagpur    |
 | Database Management System                 | 69    | September, 2023       | IIT Kharagpur    |
+| Cloud Computing                            | 72    | April, 2023           | IIT Kharagpur    |
+| Introduction to IOT                        | 85    | October, 2023         | IIT Kharagpur    |
+| Programming and DSA using Python           | 78    | March, 2023           | IIT Madras       |
+| An Introduction to Programming through CPP | 85    | April,2022            | IIT Bombay       |
+| Programming in Java                        | 90    | October,2022          | IIT Kharagpur    |
