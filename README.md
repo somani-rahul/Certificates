@@ -4,7 +4,7 @@
 ## Other Certificates Information Alltogether
 
 # My astonishing performances
-### Completed six courses by IITs finishing Programming Domain:
+### Completed eight courses constructed by IITs :
 ![NPTEL Domain - Programming](Compressed_Certificates/Marklist_nptel.jpg)
 
 ### Latest Academic Result: 
