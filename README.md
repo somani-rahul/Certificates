@@ -9,13 +9,13 @@ _(Click a section to jump)_
 ## [Other Certificates Information Alltogether](#all-other-courses)
 
 # My astonishing performances
-### Completed eight courses constructed by IITs :
+### Completed eight courses constructed by IITs :   [Go back to top ⬆](#contents)
 ![NPTEL Domain - Programming](Compressed_Certificates/Marklist_nptel.jpg)
 
-### Latest Academic Result: 
+### Latest Academic Result:                         [Go back to top ⬆](#contents)
 ![sixth_sem_result.jpg](Compressed_Certificates/sixth_sem_result.jpg)
 
-### All other courses: 
+### All other courses:                              [Go back to top ⬆](#contents)
 | Name                                       | Score | Date of certification | Institution      |
 | :----------------------------------------- | :---: | :-------------------: | :--------------: |
 | 1. Data Analytics with Python                 | 65    | April, 2024           | IIT Roorkee      |
