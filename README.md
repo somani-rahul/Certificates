@@ -6,7 +6,7 @@
 _(Click a section to jump)_
 ## [Domain Certificate](#completed-eight-courses-constructed-by-iits-) 
 ## [Academic Result](#latest-academic-result)
-## [Other Certificates Information Alltogether](#other-certificates-information-alltogether)
+## [Other Certificates Information Alltogether](#all-other-courses)
 
 # My astonishing performances
 ### Completed eight courses constructed by IITs :
