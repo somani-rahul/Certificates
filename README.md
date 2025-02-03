@@ -2,10 +2,11 @@
 <img  src="welcome.svg">
 </div>
 
-# Contents of Readme:
-## Domain Certificate
-## Academic Result
-## Other Certificates Information Alltogether
+# Contents  
+_(Click a section to jump)_
+## [Domain Certificate](#completed-eight-courses-constructed-by-iits-) 
+## [Academic Result](#latest-academic-result)
+## [Other Certificates Information Alltogether](#other-certificates-information-alltogether)
 
 # My astonishing performances
 ### Completed eight courses constructed by IITs :
