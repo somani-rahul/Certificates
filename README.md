@@ -11,10 +11,10 @@ _(Click a section to jump)_
 # My astonishing performances
 ### Completed eight courses constructed by IITs :   
 ![NPTEL Domain - Programming](Compressed_Certificates/Marklist_nptel.jpg)
-[Go back to top ⬆](#contents)
+#### [Go back to top ⬆](#contents)
 ### Latest Academic Result:                         
 ![sixth_sem_result.jpg](Compressed_Certificates/sixth_sem_result.jpg)
-[Go back to top ⬆](#contents)
+#### [Go back to top ⬆](#contents)
 ### All other courses:
 | Name                                       | Score | Date of certification | Institution      |
 | :----------------------------------------- | :---: | :-------------------: | :--------------: |
@@ -26,4 +26,5 @@ _(Click a section to jump)_
 | 6. Programming and DSA using Python           | 78    | March, 2023           | IIT Madras       |
 | 7. An Introduction to Programming through CPP | 85    | April,2022            | IIT Bombay       |
 | 8. Programming in Java                        | 90    | October,2022          | IIT Kharagpur    |
-[Go back to top ⬆](#contents)
+
+#### [Go back to top ⬆](#contents)
