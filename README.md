@@ -13,7 +13,7 @@ _(Click a section to jump)_
 ![NPTEL Domain - Programming](Compressed_Certificates/Marklist_nptel.jpg)
 #### [Go back to top ⬆](#contents)
 ### Latest Academic Result:                         
-![sixth_sem_result.jpg](Compressed_Certificates/sixth_sem_result.jpg)
+![eighth_semester.jpg](Certificates/eighth_semester.jpg)
 #### [Go back to top ⬆](#contents)
 ### All other courses:
 | Name                                       | Score | Date of certification | Institution      |
